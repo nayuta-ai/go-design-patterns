@@ -8,6 +8,10 @@ A component responsible solely for the wholesale (not piecewise) creation of obj
 
 A partially or fully initialized object that you copy (clone) and make use of.
 
+## Decorator
+
+Facilitates the addition of behaviors to individual objects through embedding.
+
 ## Facade
 
 Provides a simple, easy to understand/user interface over a large and sophisticated body of code.
