@@ -8,6 +8,10 @@ A component responsible solely for the wholesale (not piecewise) creation of obj
 
 A partially or fully initialized object that you copy (clone) and make use of.
 
+## Singleton
+
+A component which is instantiated only once.
+
 ## Decorator
 
 Facilitates the addition of behaviors to individual objects through embedding.
