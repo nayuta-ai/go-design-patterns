@@ -39,3 +39,7 @@ An object which represents an instruction to perform a particular action. Contai
 ## Interpreter
 
 A component that processes structured text data. Does so by turning it into separate lexical tokens(lexing) and then interpreting sequences of said tokens(parsing).
+
+## Iterator
+
+An object that facilitates the traversal of a data structure.
