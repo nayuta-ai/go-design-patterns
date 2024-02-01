@@ -47,3 +47,7 @@ An object that facilitates the traversal of a data structure.
 ## Mediator
 
 A component that facilitates communication between other components without them necessarily being aware of each other or having direct access to each other.
+
+## Memento
+
+A token representing the system state. Lets us roll back to the state when the token was generated. May or may not directly expose state information.
