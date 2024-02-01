@@ -43,3 +43,7 @@ A component that processes structured text data. Does so by turning it into sepa
 ## Iterator
 
 An object that facilitates the traversal of a data structure.
+
+## Mediator
+
+A component that facilitates communication between other components without them necessarily being aware of each other or having direct access to each other.
