@@ -64,3 +64,7 @@ A formalized construct which manages state and transitions is called a state mac
 ## Storategy
 
 Separates an algorithm into its skelton and concrete implementation steps, which can be varied at run-time.
+
+## Template Method
+
+A skelton algorithm defined in a function. Function can either use an interface (like strategy) or can take several functions as arguments.
