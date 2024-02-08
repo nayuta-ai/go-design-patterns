@@ -60,3 +60,7 @@ An observer is an object that wishes to be informed about events happening in th
 
 A pattern in which the object's behavior is determined by its state. An object transitions from one state to another (something needs to trigger a transition).
 A formalized construct which manages state and transitions is called a state machine.
+
+## Storategy
+
+Separates an algorithm into its skelton and concrete implementation steps, which can be varied at run-time.
